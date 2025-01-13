@@ -1,0 +1,22 @@
+dateModified: 1736747312
+email:
+  fromEmail: leo336570@gmail.com
+  fromName: practiceland
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    817c9e3f-efc1-43d2-8dbf-94d159279886: practiceland # practiceland
+    37313ed3-9784-40d2-b6fb-a9b450ad054f: practiceland # practiceland
+    fa5b9796-3325-4ade-bca3-36d00718db14: Common # Common
+system:
+  edition: solo
+  live: true
+  name: practiceland
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
