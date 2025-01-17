@@ -7,11 +7,11 @@
 module.exports = {
   // Specify which files Tailwind should scan for class names to generate only the necessary CSS
   content: [
-    './templates/**/*.twig', // Include all Twig templates in the 'templates' folder and its subfolders
-    './src/js/**/*.js',      // Include all JavaScript files in the 'src/js' folder and its subfolders
+    './templates/**/*.twig', // Include all twig templates in the 'templates' folder and subfolders
+    './src/**/*.{html,js}', // Include all html and js files in the 'src/' folder and subfolders
   ],
   
-  // Customize the default theme or add additional styles
+  // Customise the default theme or add additional styles
   theme: {
     // Use this to add or override Tailwind's default styles
     extend: {},
