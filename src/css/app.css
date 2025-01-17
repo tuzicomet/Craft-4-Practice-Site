@@ -1,0 +1,4 @@
+/* @tailwind directives for each of Tailwind’s layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
